@@ -46,4 +46,4 @@ Kommt später noch.
 * Diverse Fehlerbehebungen
 * Formular Formatierung
 * Sortierung der Sponsoring Pakete
-* Empfänger geändert in info@manuelstettler.ch
+* Empfänger geändert
