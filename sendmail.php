@@ -58,7 +58,10 @@ function sponsor_sendmail() {
 
 
 		add_filter('wp_mail_content_type',create_function('', 'return "text/html"; '));
+		// Mail an den Sponsorempfänger
 		wp_mail($options['email'], $options['betreff'], $mailcontent);
+		// Mail an den Sponsor
+		wp_mail($_POST['mail'], 'Bestätigung - ' . $options['betreff'], $mailcontent);
 		$return['status'] = 1;
 		$return['meldung'] = $options['success'];
 	else:
