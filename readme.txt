@@ -21,6 +21,8 @@ Kommt später noch.
 
 
 == Changelog ==
+= 0.6.8 = 
+* Mailbestätigung hinzugefügt für Sponsor
 
 = 0.6.7 =
 * Updater geändert auf GitHub

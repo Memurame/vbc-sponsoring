@@ -2,7 +2,7 @@
 /*
 Plugin Name: VBC Sponsoring
 Description: Plugin um die Sponsoring anfragen eleganter zu gestalten und dem zukünftigen Sponsor direkt anzuzeigen wieviel er bereits ausgewählt hat und wieviel noch nötig ist bis zur nächsten Sponsoring stufe.
-Version: 0.6.7
+Version: 0.6.8
 Author: Tom Hirter
 Author URI: http://thomas-hirter.ch
 
