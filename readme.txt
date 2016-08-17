@@ -21,6 +21,10 @@ Kommt später noch.
 
 
 == Changelog ==
+
+= 0.6.7 =
+* Updater geändert auf GitHub
+
 = 0.6.5 =
 * Inputfeld für VBC Kontaktperson
 
